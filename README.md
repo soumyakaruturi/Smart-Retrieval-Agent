@@ -2,7 +2,7 @@
 
 # 🚀Smart RAG Agent
 
-InsightRAG is an advanced **Retrieval-Augmented Generation (RAG)** framework enhanced with **reasoning capabilities**. Unlike traditional RAG systems that simply retrieve documents and generate responses, InsightRAG introduces a **reasoning layer** that allows the model to think step-by-step, improving accuracy, reliability, and explainability.
+Smart RAG Agent is an advanced **Retrieval-Augmented Generation (RAG)** framework enhanced with **reasoning capabilities**. Unlike traditional RAG systems that simply retrieve documents and generate responses, Smart RAG Agent introduces a **reasoning layer** that allows the model to think step-by-step, improving accuracy, reliability, and explainability.
 
 ---
 
